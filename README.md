@@ -1,3 +1,3 @@
 # spiders
-node.js实现的爬虫
+node.js
 You need to create new data img two folders in the current directory
